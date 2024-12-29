@@ -1,24 +1,38 @@
+.p {
+    background-color: aquamarine;
+    color: black;
+}
 
+.h1 {
+    background-color: antiquewhite;
+    text-align: center;
+    color: black;
+    padding: 30px;
+    margin: 50px;
+}
 
-   .p{
-background-color: aquamarine;
-color:black;
-    }
-    .h1{
-        background-color: antiquewhite;
-        text-align: center;
-        color: black;
-    }
-    fieldset{
-      background-color:aquamarine;  
-    }
-   legend{
+fieldset {
+    background-color: aquamarine;
+}
+
+legend {
     color: rgb(0, 0, 0);
     text-align: center;
-   }
-#id1{
-background-color: black;
-font-size: large;
-color: white;
-text-align: center;
+}
+
+#id1 {
+    background-color: black;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-image: url(../img/pexels-samsilitongajr-848573.jpg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
 }
