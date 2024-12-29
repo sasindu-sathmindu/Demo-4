@@ -1,10 +1,10 @@
 
 
-    p{
+   .p{
 background-color: aquamarine;
 color:black;
     }
-    h1{
+    .h1{
         background-color: antiquewhite;
         text-align: center;
         color: black;
@@ -15,6 +15,10 @@ color:black;
    legend{
     color: rgb(0, 0, 0);
     text-align: center;
-
-    
    }
+#id1{
+background-color: black;
+font-size: large;
+color: white;
+text-align: center;
+}
